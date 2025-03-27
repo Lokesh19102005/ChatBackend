@@ -1,5 +1,4 @@
 import { Server } from "socket.io";
-import cors from cors
 import http from "http";
 import express from "express";
 
